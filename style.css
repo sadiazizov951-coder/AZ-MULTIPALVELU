@@ -12,3 +12,15 @@ a {
     color: red;
     font-size: 20px;
 } 
+a {
+    color: red;
+    font-size: 20px;
+}
+
+a {
+    background-color: darkblue;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
