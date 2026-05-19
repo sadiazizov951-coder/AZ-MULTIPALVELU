@@ -16,10 +16,8 @@ position:sticky;
 top:0;
 }
 
-.logo{
-font-size:32px;
-font-weight:bold;
-color:darkblue;
+logo img{
+height:70px;
 }
 
 .menu a{
